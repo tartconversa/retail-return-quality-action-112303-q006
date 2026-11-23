@@ -1,0 +1,17 @@
+﻿reason_code,category,valid_from,valid_to,mapping_version
+R-01,fit,2026-01-02,2027-01-01,MAP-1
+R-02,information,2026-01-03,2027-01-01,MAP-2
+R-03,unknown,2026-01-04,2027-01-01,MAP-0
+R-04,quality,2026-01-05,2027-01-01,MAP-1
+R-05,fit,2026-01-06,2027-01-01,MAP-2
+R-06,information,2026-01-07,2027-01-01,MAP-0
+R-07,unknown,2026-01-08,2027-01-01,MAP-1
+R-08,quality,2026-01-09,2027-01-01,MAP-2
+R-09,fit,2026-01-10,2027-01-01,MAP-0
+R-10,information,2026-01-11,2027-01-01,MAP-1
+R-11,unknown,2026-01-12,2027-01-01,MAP-2
+R-12,quality,2026-01-13,2027-01-01,MAP-0
+R-13,fit,2026-01-14,2027-01-01,MAP-1
+R-14,information,2026-01-15,2027-01-01,MAP-2
+R-15,unknown,2026-01-16,2027-01-01,MAP-0
+R-16,quality,2026-01-17,2027-01-01,MAP-1
