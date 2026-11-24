@@ -1,0 +1,11 @@
+﻿review_id,return_id,decision,new_reason_code,reviewed_at,reviewer,note
+RR-001,RET-0002,reclassify,R-21,2026-11-18,QI-02,客服照片显示开箱即破损，原‘说明理解’改判为质量类
+RR-002,RET-0019,reclassify,R-21,2026-11-20,QI-03,仓库复检确认包装挤压造成破损
+RR-003,RET-0008,reclassify,R-22,2026-11-17,QI-02,复核为页面说明缺失导致的理解偏差，非质量缺陷
+RR-004,RET-0031,confirm,,2026-11-19,QI-01,维持质量分类
+RR-005,RET-0040,confirm,,2026-11-20,QI-02,维持尺码分类
+RR-006,RET-0006,reclassify,R-21,2026-12-02,QI-03,补充照片确认鞋面开胶，复核后维持质量编码口径
+RR-007,RET-0013,reclassify,R-21,2026-12-04,QI-01,拆包复检确认破损，由尺码改判质量
+RR-008,RET-0026,reclassify,R-22,2026-12-06,QI-02,复核确认是说明文字问题，转说明类
+RR-009,RET-0037,reclassify,R-22,2026-12-08,QI-03,复核确认颜色描述差异，转说明类
+RR-010,RET-0050,confirm,,2026-11-21,QI-01,维持质量分类

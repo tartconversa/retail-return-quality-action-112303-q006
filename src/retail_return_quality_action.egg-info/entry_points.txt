@@ -1,0 +1,2 @@
+[console_scripts]
+retail-return-quality-action = retail_return_quality_action.cli:main

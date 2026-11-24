@@ -1,0 +1,11 @@
+﻿review_id,inspection_id,review_state,reviewer,rationale,reviewed_at
+IR-001,IN-004,confirmed,QI-02,复检确认标签问题，维持发现,2026-11-19
+IR-002,IN-006,rejected,QI-03,样本外复检未复现，撤销该项发现,2026-11-20
+IR-003,IN-010,rejected,QI-01,复检未复现，撤销,2026-11-21
+IR-004,IN-014,confirmed,QI-02,复检确认缝线强度不足,2026-11-22
+IR-005,IN-019,rejected,QI-03,复检未复现，撤销,2026-11-23
+IR-006,IN-024,rejected,QI-01,复检未复现，撤销,2026-11-23
+IR-007,IN-029,rejected,QI-02,复检未复现，撤销,2026-11-24
+IR-008,IN-034,rejected,QI-03,复检未复现，撤销,2026-11-24
+IR-009,IN-039,confirmed,QI-01,复检确认包装问题，维持发现,2026-11-24
+IR-010,IN-041,rejected,QI-02,复检未复现，撤销,2026-11-24

@@ -1,0 +1,16 @@
+﻿lot_id,supplier_id,supplier_lot_ref,produced_on,unshipped_units,traceability_state,note
+LOT-000,,,2026-01-01,0,unknown,批次号占位：上游系统未回传实际批次，相关订单无法追溯到具体生产批次
+LOT-001,SUP-01,SL-2609-A,2026-09-12,6,complete,
+LOT-002,SUP-02,SL-2609-B,2026-09-18,18,complete,
+LOT-003,SUP-03,SL-2609-C,2026-09-22,12,complete,
+LOT-004,SUP-04,,2026-09-26,0,partial,供应商批次号缺失，仅有生产周
+LOT-005,SUP-05,SL-2610-A,2026-10-01,8,complete,
+LOT-006,SUP-01,SL-2610-B,2026-10-03,24,complete,
+LOT-007,SUP-02,SL-2610-C,2026-10-06,10,complete,
+LOT-008,SUP-03,,2026-10-09,9,partial,生产批次号与入库记录不一致
+LOT-009,SUP-04,SL-2610-D,2026-10-12,0,complete,
+LOT-010,SUP-05,SL-2610-E,2026-10-15,14,complete,
+LOT-011,SUP-01,SL-2610-F,2026-10-18,11,complete,
+LOT-012,SUP-02,,2026-10-21,7,partial,代工厂换线，批次映射待补
+LOT-013,SUP-03,SL-2610-G,2026-10-24,5,complete,
+LOT-014,SUP-04,SL-2610-H,2026-10-27,13,complete,

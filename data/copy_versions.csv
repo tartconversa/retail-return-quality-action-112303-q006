@@ -1,0 +1,10 @@
+﻿copy_version_id,sku,version,valid_from,valid_to,change_type,summary
+CP-SKU003-V1,SKU-003,v1,2026-08-01,2026-10-19,initial,初版商品说明与尺码表
+CP-SKU003-V2,SKU-003,v2,2026-10-20,,size-guide,补充实测尺码与试穿建议
+CP-SKU007-V1,SKU-007,v1,2026-08-01,2026-10-17,initial,初版商品说明
+CP-SKU007-V2,SKU-007,v2,2026-10-18,,color,颜色描述改为实拍色并补充色差提示
+CP-SKU002-V1,SKU-002,v1,2026-08-01,,initial,初版商品说明
+CP-SKU006-V1,SKU-006,v1,2026-08-01,,initial,初版商品说明
+CP-SKU010-V1,SKU-010,v1,2026-08-01,,initial,初版商品说明
+CP-SKU014-V1,SKU-014,v1,2026-08-01,,initial,初版商品说明
+CP-SKU018-V1,SKU-018,v1,2026-08-01,,initial,初版商品说明

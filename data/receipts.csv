@@ -1,0 +1,12 @@
+﻿receipt_ref,lot_id,receipt_type,outcome,received_at,channel,note
+RC-11,LOT-010,supplier-response,accepted,2026-11-12,supply,供应商提交根因分析
+RC-17,LOT-011,supplier-response,partial,2026-11-22,supply,供应商仅提交临时筛选方案
+RC-22,LOT-003,channel-publish,accepted,2026-10-21,product,新版商品说明已发布
+RC-30,LOT-006,hold-ack,accepted,2026-11-27,store,渠道确认 LOT-006 未发货批次已暂停
+RC-31,LOT-002,hold-ack,accepted,2026-11-24,marketplace,渠道确认 LOT-002 暂停发货
+RC-32,LOT-008,hold-ack,partial,2026-11-24,web,部分渠道确认，部分待回执
+RC-40,,hold-ack,accepted,2026-11-03,marketplace,历史汇总回执，未落到具体批次
+RC-41,,supplier-response,accepted,2026-11-09,supply,历史供应商回复汇总
+RC-50,LOT-006,supplier-response,accepted,2026-12-15,supply,供应商提交 8D 整改报告与首批复检记录
+RC-51,LOT-006,channel-publish,accepted,2026-12-18,product,新版商品说明已发布确认
+RC-52,LOT-006,hold-release,accepted,2027-02-15,marketplace,整改验证通过后恢复发货

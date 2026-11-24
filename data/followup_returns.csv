@@ -1,0 +1,6 @@
+﻿return_id,order_id,returned_units,reason_code,received_at,refund_state,review_state
+RET-0348,ORD-0216,1,R-23,2026-12-15,paid,coded
+RET-0357,ORD-0219,1,R-23,2026-12-24,paid,coded
+RET-0378,ORD-0226,1,R-21,2026-12-18,paid,coded
+RET-0384,ORD-0228,1,R-21,2026-12-26,paid,coded
+RET-0390,ORD-0230,1,R-21,2026-12-22,paid,coded

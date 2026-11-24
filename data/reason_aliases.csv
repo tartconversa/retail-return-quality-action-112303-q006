@@ -1,0 +1,5 @@
+﻿alias_code,canonical_code,scheme_version,valid_from,valid_to,note
+damaged,R-04,LEGACY-LABEL-1,2026-01-01,2027-12-31,旧标签兼容：损毁类
+description,R-02,LEGACY-LABEL-1,2026-01-01,2027-12-31,旧标签兼容：说明理解类，不作为质量证据
+fit,R-01,LEGACY-LABEL-1,2026-01-01,2027-12-31,旧标签兼容：尺码类
+other,R-03,LEGACY-LABEL-1,2026-01-01,2027-12-31,旧标签兼容：其他/原因未知

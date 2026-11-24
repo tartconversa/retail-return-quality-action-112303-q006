@@ -1,0 +1,108 @@
+{
+  "policy_windows_days": {
+    "POL-0": 7,
+    "POL-1": 14,
+    "POL-2": 21,
+    "POL-3": 30
+  },
+  "default_window_days": 30,
+  "maturity_buffer_days": 7,
+  "quality_categories": [
+    "quality"
+  ],
+  "unknown_categories": [
+    "unknown"
+  ],
+  "expected_smoothing": 0.5,
+  "significance": {
+    "fdr_q": 0.1,
+    "watch_p": 0.2,
+    "escalate_q": 0.1,
+    "smr_investigate": 1.5,
+    "smr_escalate": 2.0,
+    "min_events": 2,
+    "smr_watch": 1.5,
+    "lot_investigate_p": 0.2,
+    "lot_investigate_smr": 1.75,
+    "lot_investigate_events": 4
+  },
+  "repeat": {
+    "min_units": 2,
+    "min_lots": 2,
+    "min_severity_weight": 3,
+    "qualifying_lot_smr": 1.3,
+    "qualifying_lot_p": 0.3
+  },
+  "severity_weights": {
+    "minor": 1,
+    "major": 2,
+    "critical": 3
+  },
+  "traceability": {
+    "placeholder_ids": [
+      "LOT-000",
+      "SKU-000"
+    ],
+    "unknown_states": [
+      "unknown",
+      "partial"
+    ],
+    "min_unknown_share_watch": 0.3,
+    "min_untraced_share_watch": 0.2
+  },
+  "improvement": {
+    "min_post_exposure_units": 20,
+    "alpha": 0.1,
+    "min_pre_events": 2,
+    "pre_days": 60,
+    "post_days": 60
+  },
+  "decisions": {
+    "levels": [
+      "none",
+      "watch",
+      "investigate",
+      "escalate"
+    ],
+    "quality_roles": [
+      "quality"
+    ],
+    "product_actions": [
+      "revise-copy",
+      "change-packaging",
+      "no-change",
+      "monitor"
+    ],
+    "supply_actions": [
+      "hold-shipment",
+      "supplier-fix",
+      "release-hold",
+      "no-action"
+    ],
+    "quality_actions": [
+      "request-investigation",
+      "close-case",
+      "monitor"
+    ],
+    "execution_states": [
+      "proposed",
+      "confirmed",
+      "in_progress",
+      "complete",
+      "cancelled",
+      "superseded"
+    ],
+    "receipt_states": [
+      "accepted",
+      "complete",
+      "rejected",
+      "partial",
+      "cancelled"
+    ]
+  },
+  "report": {
+    "top_n": 10,
+    "rate_precision": 4
+  },
+  "late_return_days": 30
+}
